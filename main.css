@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(12, 68, 40);
+    overflow: auto;
+    
+}
+button{
+    border-radius: 20%;
+    
+}
+.cabecalho{
+    background-color: rgb(105, 230, 94);
+    border-radius: 20px;
+    
+}
